@@ -1,0 +1,109 @@
+# ==============================
+# Python / Django
+# ==============================
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Django
+*.log
+db.sqlite3
+db.sqlite3-journal
+staticfiles/
+media/
+
+# Python tooling / tests
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+
+# ==============================
+# React / Vite / Node
+# ==============================
+
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+
+# ==============================
+# Environment variables
+# ==============================
+
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+backend/.env
+frontend/.env
+frontend/.env.local
+
+# Keep example environment files
+!.env.example
+!frontend/.env.example
+!backend/.env.example
+
+
+# ==============================
+# IDE / Editor
+# ==============================
+
+.vscode/
+.idea/
+
+*.swp
+*.swo
+
+
+# ==============================
+# Operating System
+# ==============================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
+# ==============================
+# Build / Cache
+# ==============================
+
+.cache/
+tmp/
+temp/
+
+
+# ==============================
+# Python packaging
+# ==============================
+
+build/
+dist/
+*.egg-info/
+.eggs/
+
+
+# ==============================
+# Misc
+# ==============================
+
+*.bak
+*.tmp
