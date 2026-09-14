@@ -321,11 +321,11 @@ The application is designed to be deployed using:
 
 ### Live Application
 
-To be added after deployment.
+https://eld-trip-planner-one-swart.vercel.app/
 
 ### Backend API
 
-To be added after deployment.
+https://eld-trip-planner-oly4.onrender.com
 
 ## Disclaimer
 
